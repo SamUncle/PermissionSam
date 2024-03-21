@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PermissionSam</string>
+    <string name="call">call</string>
+    <string name="permissionReqTip">拨打之前请求电话权限</string>
 </resources>

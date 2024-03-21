@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PermissionSam"
 include(":app")
+include(":library")
